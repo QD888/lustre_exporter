@@ -110,3 +110,4 @@ Feel free to create an issue, pull request or just start a discussion.
 
 ## Grafana dashboard demo by QD888
 https://grafana.com/grafana/dashboards/17529
+or import lustre_rev1.json
