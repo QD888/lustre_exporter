@@ -107,3 +107,6 @@ In the event that you encounter issues with specific metrics (especially on vers
 
 You are welcome to contribute to the project.
 Feel free to create an issue, pull request or just start a discussion.
+
+## Grafana dashboard demo by QD888
+https://grafana.com/grafana/dashboards/17529
